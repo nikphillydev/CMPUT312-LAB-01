@@ -1,5 +1,5 @@
 # Written by Nikolai Philipenko and Yuyang Wang
-# CMPUT 301 - Fall 2025
+# CMPUT 312 - Fall 2025
 
 from ev3dev2.sensor import INPUT_1, INPUT_3
 from ev3dev2.sensor.lego import UltrasonicSensor, GyroSensor

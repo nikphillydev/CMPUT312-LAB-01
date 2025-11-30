@@ -1,5 +1,5 @@
 # Written by Nikolai Philipenko and Yuyang Wang
-# CMPUT 301 - Fall 2025
+# CMPUT 312 - Fall 2025
 
 from ev3dev2.motor import OUTPUT_A, OUTPUT_B, SpeedPercent, MoveTank, Motor, SpeedDPS
 from robot_core.constants import *

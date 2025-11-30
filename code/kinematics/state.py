@@ -1,5 +1,5 @@
 # Written by Nikolai Philipenko
-# CMPUT 301 - Fall 2025
+# CMPUT 312 - Fall 2025
 
 import math
 from threading import Lock

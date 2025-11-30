@@ -1,5 +1,5 @@
 # Written by Yuyang Wang
-# CMPUT 301 - Fall 2025
+# CMPUT 312 - Fall 2025
 
 import math
 from math import pi
